@@ -1,3 +1,9 @@
 # Project: Flex Blog
 
-# Project made during the CSS Flexbox course from Origamid
+# Preview here:
+
+# HTML/CSS
+
+# Project to practice Flexbox Fundamentals
+
+# CSS Flexbox course from Origamid

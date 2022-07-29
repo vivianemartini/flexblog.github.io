@@ -1,9 +1,7 @@
 # Project: Flex Blog
 
-# Preview here: https://flexblog.martiniviviane.repl.co/
+HTML/CSS
 
-# HTML/CSS
+Project to practice Flexbox Fundamentals
 
-# Project to practice Flexbox Fundamentals
-
-# CSS Flexbox course from Origamid
+CSS Flexbox course from Origamid
